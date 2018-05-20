@@ -1,0 +1,2 @@
+# Saletancy
+Saletancy appliance assignment, it consisted in scraping different parameter form this webpage http://www.indiabusinesstoday.in while generating a file able to display in an ordered way. Below are required information (all information available should be scrapped) 1. Name of the Company: 2. Contact Name: 3. Designation: 4. Street Address: 5. City: 6. State: 7. Pincode: 8. Email: 9. Phone: 10. Mobile: 11. Website: 12. Employee Size
